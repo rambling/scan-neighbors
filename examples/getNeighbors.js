@@ -1,3 +1,8 @@
 var neighbors = require("../lib/neighbors");
 
-neighbors.find(8888);
+neighbors.scanNodes(80, function(err, nodes) {
+	if (err) {
+		console.log("Error", err);
+	}
+	console.log(nodes);
+});
