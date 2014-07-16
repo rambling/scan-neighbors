@@ -1,0 +1,27 @@
+{
+  "name": "neighbors",
+  "version": "0.0.1",
+  "description": "Getting the neighbors host information for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/requester/neighbors.git"
+  },
+  "keywords": [
+    "neighbor",
+    "nmap",
+    "scan"
+  ],
+  "author": "raphael kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/requester/neighbors/issues"
+  },
+  "homepage": "https://github.com/requester/neighbors",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
