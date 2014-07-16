@@ -1,6 +1,6 @@
 # neighbors.js
 
-Find the connectable node address for node.js
+Find the connectable node in LAN (local access network) for node.js
 
 ## Example
 ```javascript
