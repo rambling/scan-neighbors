@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Getting the neighbors host information for node.js",
   "main": "index.js",
+  "engines": { "node": ">= 0.8.0" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +16,10 @@
     "nmap",
     "scan"
   ],
-  "author": "raphael kim",
+  "author": {
+    "name": "raphael",
+    "email": "sudokky.dev@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rambling/neighbors/issues"
