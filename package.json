@@ -1,5 +1,5 @@
 {
-  "name": "neighbors",
+  "name": "scan-neighbors",
   "version": "0.0.1",
   "description": "Getting the neighbors host information for node.js",
   "main": "index.js",
